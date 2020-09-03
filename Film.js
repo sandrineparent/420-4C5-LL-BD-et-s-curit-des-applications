@@ -1,7 +1,7 @@
 const header = document.querySelector('header'); 
 const section = document.querySelector('section');
 
-let requestURL = 'https://raw.githubusercontent.com/GillesCLL/420-4c5-ll-bd_securite/master/Film.json';
+let requestURL = 'https://raw.githubusercontent.com/sandrineparent/420-4C5-LL-BD-et-s-curit-des-applications/master/Film.json';
 
 //Ouvertue de la requête
 request = new XMLHttpRequest();
