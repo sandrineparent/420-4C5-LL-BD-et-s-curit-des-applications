@@ -5,75 +5,85 @@
       "Directeur": "Kyle Balda, Pierre Coffin",
       "Auteur": "Brian Lynch,",
       "Date": 2015,
+      "Description": "Les Minions sont des petites créatures jaunes qui existent depuis la nuit des temps, ils sont l'évolution d' organismes unicellulaires jaunes qui n'ont qu'un seul but : servir les méchants les plus ambitieux de l'histoire.",
+      "Budget": "74 millions",
+      "FindesemainedouvertureauUSA":"...",
+      "TotalUSA": "...",
+      "Totaldanslemonde": "...",
       "Vedette":[
-      {
-      "Nom": "Sandra Bullock",
-      "Personnage": "Scarlet Overkill (voix)"
-      },
-      {
-      "Nom": "Jon Hamm",
-      "Personnage": "Herb Overkill (voix)"
-      },
-      {
-      "Nom": "Michael Keaton",
-      "Personnage": "Walter Nelson (voix)"
-      },
-      {
-        "Description": "Les Minions sont des petites créatures jaunes qui existent depuis la nuit des temps, ils sont l'évolution d' organismes unicellulaires jaunes qui n'ont qu'un seul but : servir les méchants les plus ambitieux de l'histoire."
-      },
-      {
-        "Budget": "74 millions"
-      },
-      {
-       "Fin de semaine d'ouverture au USA":"..."
-      },
-      {
-        "Total USA": "..."
-      },
-      {
-        "Total dans le monde": "..."
-      }
+        {
+          "Nom": "Sandra Bullock",
+          "Personnage": "Scarlet Overkill (voix)"
+        },
+        {
+          "Nom": "Jon Hamm",
+          "Personnage": "Herb Overkill (voix)"
+        },
+        {
+          "Nom": "Michael Keaton",
+          "Personnage": "Walter Nelson (voix)"
+        }
       ]
-     },
+    },
+
+
     
+    {
+      "Titre": "Fight Club",
+      "Directeur": "David Fincher",
+      "Auteur": "Chuck Palahniuk, Jim Uhls",
+      "Date": 1999,
+      "Description":"Fight Club est un film américain de David Fincher, sorti en 1999 et adapté du roman éponyme de Chuck Palahniuk (publié en 1996). Le narrateur du film est un homme qui trouve peu de satisfaction dans son emploi et sa vie en général et crée avec...",
+      "Budget": "120 millions",
+      "FindesemainedouvertureauUSA": "...",
+      "TotalUSA": "...",
+      "Totaldanslemonde": "...",
+      "Vedette":[
+        {
+          "Nom": "Brad Pitt",
+          "Personnage": "Tyler Durden (voix)"
+        },
 
-  {
-    "Titre": "Fight Club",
-    "Directeur": "David Fincher",
-    "Auteur": "Chuck Palahniuk, Jim Uhls",
-    "Date": 1999,
-    "Vedette":[
-    {
-    "Nom": "Brad Pitt",
-    "Personnage": "Tyler Durden (voix)"
+        {
+          "Nom": "Edwad Norton",
+          "Personnage": "The Narrator"
+        },
+
+        {
+          "Nom": "Meat Loaf",
+          "Personnage": " Robert (voix)"
+        }
+      ]
     },
 
-    {
-    "Nom": "Edwad Norton",
-    "Personnage": "The Narrator"
-    },
+
 
     {
-    "Nom": "Meat Loaf",
-    "Personnage": " Robert (voix)"
-    },
-    {
-      "Description":"Fight Club est un film américain de David Fincher, sorti en 1999 et adapté du roman éponyme de Chuck Palahniuk (publié en 1996). Le narrateur du film est un homme qui trouve peu de satisfaction dans son emploi et sa vie en général et crée avec..."
-    },
-    {
-      "Budget": "63 millions"
-    },
-    {
-     "Fin de semaine d'ouverture au USA": "..."
-    },
-    {
-      "Total USA": "..."
-    },
-    {
-      "Total dans le monde": "..."
+      "Titre": "Le roi",
+      "Directeur": "David Michôd",
+      "Auteur": " Joel Edgerton",
+      "Date": 2019,
+      "Description":"Le roi a principalement un rôle de conservation autoritaire de l'ordre social, associant les fonctions de premier juge, de chef de guerre et de garant de la cohésion d'une société. Il est extérieur aux ordres, aux partis ou aux classes sociales qu'il a pour fonction de maintenir en équilibre.",
+      "Budget": "180 millions",
+      "FindesemainedouvertureauUSA": "...",
+      "TotalUSA": "...",
+      "Totaldanslemonde": "...",
+      "Vedette":[
+        {
+          "Nom": "Timothée Chalamet",
+          "Personnage": "King Henry Hal (voix)"
+        },
+    
+        {
+          "Nom": "Robert Pattinson",
+          "Personnage": "The Dauphin"
+        },
+    
+        {
+          "Nom": "Joel Edgerton",
+          "Personnage": "Falstaff"
+        }
+      ]
     }
-    ]
-  }
   ]
-}
-  
+} 
